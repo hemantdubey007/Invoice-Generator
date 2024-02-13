@@ -1,4 +1,4 @@
-My Name is Hemant Dubey , I am from fs14 batch , I got a Invoice Generator project where ou can use this app for billing or receipt generation purpose.
+My Name is Hemant Dubey , I am from fs14 batch , I got a Invoice Generator project, you can use this app for billing or receipt generation purpose.
 
 External Packages/Frameworks Used
 In this ptoject adding the ecah item is dynamic, but for downloading the pdf i have use the external libarry html2.pdf.bundle cdn and for printing the page i have use window.print() function .
